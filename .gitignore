@@ -1,0 +1,7 @@
+yotpo/config.xml
+.DS_Store
+.buildpath
+.project
+.settings
+nbproject/
+.idea/
